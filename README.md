@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isuru Gimhan</h1>
 <h3 align="center">A passionate full stack developer in sri lanka</h3>
+<img align = "right" alt = "coding" width = "400" src = "https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurgimhan&label=Profile%20views&color=0e75b6&style=flat" alt="isurgimhan" /> </p>
 
